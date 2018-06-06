@@ -114,6 +114,8 @@ header{
   display: flex;
   align-items: stretch;
   background-color: red;
+  
+  /*padding: 5px;*/
 }
 
 header div{  
@@ -132,7 +134,7 @@ header .watch-trailer button{
   align-items: stretch;
 
   margin: auto;    
-  padding: 0px;
+  padding: 5px;
 
   outline: none;
   border: none;
@@ -183,7 +185,8 @@ main{
   flex-direction: row;
   justify-content: center;
 
-/*  margin: 100px auto;*/
+/*  margin: 100px auto;
+*/
 }
 
 .watch-trailer span{
