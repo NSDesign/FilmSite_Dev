@@ -1,0 +1,249 @@
+
+
+/* ------------------ */
+/* Font */
+
+*{
+  font-family: 'Open Sans';
+  letter-spacing: 2px;
+
+  text-decoration-line: none; 
+  text-rendering: auto;
+}
+
+body{
+  
+  
+}
+
+
+/* ------------------ */
+/* Social Icons */
+
+
+/*[class^="socicon-"], [class*="socicon-"]{
+  font-family: 'Socicon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+}*/
+
+.icons-display{
+  display: inline;
+  color: black;
+  margin: 0.5rem;
+  /*padding: 0.5rem;*/
+}
+
+[class*="socicon-"]:hover{
+
+  opacity: 0.5;
+
+  /*display: inline;*/
+
+  /*margin: 0.5rem;*/
+  /*padding: 0.5rem;*/
+}
+
+/*.icons-social{
+  display: inline-block;
+}*/
+
+/*.icon-social-instagram*/
+/*.socicon-instagram{
+  content: "e044";
+  background-color: 
+}
+.socicon-facebook{
+  content: "e028";
+}
+.socicon-youtube{
+  content: "e0a5";
+}
+.socicon-twitter{
+  content: "e08d";
+}*/
+
+/* Social Icons - End */
+
+/* Grid Start*/
+
+/*.grid_container{
+  display: grid | inline-grid; 
+
+  display: grid;
+
+  grid-template-columns: auto; 
+  grid-template-rows: auto 1fr auto;
+
+  grid-auto-rows: minmax( 100px, auto ); 
+
+  justify-content: center; 
+
+  margin: 0px; 
+
+}*/
+
+
+
+html, body{
+  margin: 0;
+  height: 100%;
+  min-height: 100%;
+}
+
+.container{
+  
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+
+}
+
+/*div{
+   padding: 10px;
+}*/
+
+header{
+  display: flex;
+  align-items: stretch;
+  background-color: red;
+}
+
+header div{  
+  flex-grow: 1;
+  flex: 1 100%;
+
+  margin: auto;    
+  padding: 0px;
+
+  background-color: orange;
+}
+
+header .watch-trailer button{ 
+  flex-grow: 1;
+  flex: 1 100%;
+  align-items: stretch;
+
+  margin: auto;    
+  padding: 0px;
+
+  outline: none;
+  border: none;
+  background-color: SlateBlue;
+
+  cursor: pointer;
+}
+
+footer{
+  display: flex;
+
+  background-color: red;
+}
+
+footer div{
+  /*flex-direction: column;*/
+  flex-grow: 1;  
+  flex: 1 100%;
+  
+  margin: 2px;    
+  padding: 10px;
+
+  background-color: yellow;
+}
+
+/*header, footer{
+  background-color: red;
+  flex: none;
+}*/
+
+main{
+  background-image: url("../img/FilmSite_Portrait.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  /*background-size: cover; */
+  background-size: contain;
+
+  background-color: yellow;
+  overflow-y: hidden;
+  flex: auto;
+}
+
+.watch-trailer{
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  flex-direction: row;
+  justify-content: center;
+
+/*  margin: 100px auto;*/
+}
+
+.watch-trailer span{
+  /*display: inline;*/
+  position: relative;
+  top: 2px;
+  font-size: 18px; 
+  font-weight: 900;
+  text-align: center;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  
+/*  margin: 5px 0px 5px;    
+*/  /*padding: 10px;*/
+
+}
+
+/*.watch-trailer img{
+  display: inline;
+}*/
+
+.rating{
+
+}
+
+.inCinemas{
+
+}
+
+.bugs{
+ 
+}
+
+.bugs p{
+  display: block;
+}
+
+.align-left{
+  text-align:left;
+  display: inline-block;
+
+  background-color: mintcream; 
+}
+
+.align-center{
+  text-align:center;
+  display: inline-block;
+
+  background-color: lavender; 
+}
+
+.align-right{
+  text-align:right;
+  display: inline-block;
+
+  background-color: pink; 
+}
+
+.clearfix {
+    overflow: auto;
+}
+

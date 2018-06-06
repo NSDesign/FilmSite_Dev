@@ -1,0 +1,1165 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"text-decoration",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"text-dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-",
+				"text-rendering\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"b",
+				"button\t<button>"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"con",
+				"content\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"inherit\tdisplay"
+			],
+			[
+				"back",
+				"background-origin\tproperty"
+			],
+			[
+				"op",
+				"op+\topacity: $1;\nfilter: alpha(opacity=$2);"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"c",
+				"column\tflex-direction"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"grid",
+				"grid-row-end"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"grid-auto",
+				"grid-auto-rows"
+			],
+			[
+				"grid-",
+				"grid-column-gap"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"d",
+				"div\t<div>"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sty",
+				"style\t<style>"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"Math",
+				"Math.random(): number\tMath"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"onl",
+				"onload: EventHandler\tWindow"
+			],
+			[
+				"onlo",
+				"onload: EventHandler\tFileReader"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrund",
+				"background-color"
+			],
+			[
+				"tra",
+				"transform\tStyle CSS"
+			],
+			[
+				"inter",
+				"intersect\tfunction"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"sc",
+				"scriptItem"
+			],
+			[
+				"ac",
+				"actionItem"
+			],
+			[
+				"ch",
+				"chi"
+			],
+			[
+				"walk",
+				"walkers"
+			],
+			[
+				"__",
+				"__version__"
+			],
+			[
+				"height",
+				"height_scale"
+			],
+			[
+				"x",
+				"x_lt"
+			],
+			[
+				"new",
+				"new_prim"
+			],
+			[
+				"gr",
+				"growth_dist"
+			],
+			[
+				"grow",
+				"growth_dir"
+			],
+			[
+				"acc",
+				"accum_p"
+			],
+			[
+				"n",
+				"near_p"
+			],
+			[
+				"ne",
+				"near_seed_ptnum"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"s",
+				"strength"
+			],
+			[
+				"to",
+				"to_near_dir"
+			],
+			[
+				"norm",
+				"norm_dist"
+			],
+			[
+				"near",
+				"near_p"
+			],
+			[
+				"lookup",
+				"lookup_vec"
+			],
+			[
+				"a",
+				"accum_v"
+			],
+			[
+				"nea",
+				"near_count"
+			],
+			[
+				"ma",
+				"max_neighbours"
+			],
+			[
+				"max",
+				"max_strength"
+			],
+			[
+				"look",
+				"lookup_dir"
+			],
+			[
+				"m",
+				"max_dist"
+			],
+			[
+				"loo",
+				"lookup_vec"
+			],
+			[
+				"looku",
+				"lookup_vec"
+			],
+			[
+				"bas",
+				"base_scale"
+			],
+			[
+				"bom",
+				"bomb_clr"
+			],
+			[
+				"base",
+				"base_map"
+			],
+			[
+				"st",
+				"stencil_uv"
+			],
+			[
+				"rin",
+				"ring_seed"
+			],
+			[
+				"ring",
+				"ring_radius"
+			],
+			[
+				"thet",
+				"theta"
+			],
+			[
+				"rad",
+				"radius_max"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"radius_",
+				"radius_min"
+			],
+			[
+				"th",
+				"theta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FilmSite_v01/index.html",
+			"settings":
+			{
+				"buffer_size": 5129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FilmSite_v01/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3187,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: Rb",
+				"Snippet: Responsive Boilerplate Page Template"
+			],
+			[
+				"Snippet: ",
+				"Snippet: htmlboiler"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"Snippet: html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"github rep",
+				"github: open repo"
+			],
+			[
+				"git rep",
+				"github: open repo"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"zur",
+				"Snippet: ZURB Foundation Full Grid"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 261.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/NSDesign/Documents/GitHub/FilmSite_Dev/FilmSite_v01",
+		"/C/Users/NSDesign/Documents/GitHub/FilmSite_Dev/FilmSite_v01/css"
+	],
+	"file_history":
+	[
+		"/C/Users/NSDesign/Documents/GitHub/FilmSite_Dev/FilmSite_sublime_proj",
+		"/C/Users/NSDesign/Downloads/Socialicons/demo-files/demo.js",
+		"/C/Users/NSDesign/Dropbox/Public/Processing_Sketches/Confused_Connections/index.html",
+		"/C/Users/NSDesign/Dropbox/Public/Processing_Sketches/Confused_Connections/processing.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Game/QiCi_WODG_01/Assets/meta/assetCountMap.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Clients/FILM/SONY/LIB/Website/index.html",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Clients/FILM/SONY/LIB/Website/index_responsive.html",
+		"/C/Users/NSDesign/Links/LIB_Website.lnk",
+		"/C/Users/NSDesign/Desktop/base - Copy.css",
+		"/C/Users/NSDesign/Documents/HoudiniProjects/DrawTree/scripts/displacenml.txt",
+		"/C/Users/NSDesign/Documents/HoudiniProjects/DrawTree/scripts/displacenml",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Clients/FILM/STUDIO_CANAL/TemplateDatabase/masthead_pushdown/masthead_rm_h5_v2/style.css",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Clients/FILM/STUDIO_CANAL/TemplateDatabase/masthead_pushdown/masthead_rm_h5_v2/logic.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/Clients/FILM/STUDIO_CANAL/TemplateDatabase/masthead_pushdown/masthead_rm_h5_v2/index.html",
+		"/C/_DATA/WEB/Canvas_Experiments/index.html",
+		"/C/_DATA/WEB/Canvas_Experiments/js/drawing.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/TRANSMISSION_FILMS/SILENCE/silence_300x250_rich_date/index.html",
+		"/C/_DATA/WEB/Canvas_Experiments/Canvas_Experiments.sublime-project",
+		"/C/_DATA/WEB/Canvas_Experiments/drawing.js",
+		"/C/_DATA/WEB/CarnivalStudio/Particles/particles.js",
+		"/C/Users/NSDesign/Documents/GitHub/NSDesign.github.io/index.html",
+		"/C/Users/NSDesign/Documents/GitHub/NSDesign.github.io/README.md",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/SONY/MAG7/Mag7_970x250_INP_US_VERSION/Mag7_970x250_INP/gwd_preview_Mag7_970x250_INP_v1/index.html",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/SONY/MAG7/Mag7_970x250_INP_US_VERSION/Mag7_970x250_INP/al_utils.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/SONY/MAG7/Mag7_970x250_INP_US_VERSION/Mag7_970x250_INP/al_menusystem.js",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/SONY/MAG7/Mag7_970x250_INP_US_VERSION/Mag7_970x250_INP/Mag7_970x250_INP_v1.html",
+		"/C/_DATA/Clients/CARNIVALSTUDIO/SONY/MAG7/Mag7_970x250_INP_US_VERSION/Mag7_970x250_INP/Mag7_970x250_INP.html",
+		"/C/Users/NSDesign/Documents/GWD/YouTube_Masthead_FeatVideo_InPage_Test_01/YouTube_Masthead_FeatVideo_InPage_Test_01/index.html",
+		"/C/_DATA/WEB/foundation-6.2.3-complete/index.html",
+		"/C/_DATA/WEB/foundation-6.2.3-complete/index1.html",
+		"/C/_DATA/WEB/www/index.html",
+		"/C/_DATA/WEB/index.html",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/C/Users/NSDesign/Documents/SublimeProjects/PySide_QML_Test.sublime-project",
+		"/C/Users/NSDesign/Dropbox/Public/redirect.html",
+		"/C/Users/NSDesign/Documents/HoudiniProjects/Multiparm/scripts/AttribMenu_Parameters",
+		"/C/Users/NSDesign/Documents/HoudiniProjects/NURBS/nurbs_code.py",
+		"/C/Program Files/Side Effects Software/Houdini 15.0.284/python27/Scripts/pip.exe",
+		"/C/Program Files/Side Effects Software/Houdini15.0.284/houdini/Licensing.opt",
+		"/C/Windows/keys/licenses.disabled",
+		"/C/Windows/keys/licenses/licenses.local",
+		"/C/Program Files/Side Effects Software/Houdini 15.0.284/houdini/Licensing.opt",
+		"/C/Users/NSDesign/Documents/houdini14.0/scripts/attrib_30.vfl",
+		"/C/Users/NSDesign/Documents/houdini14.0/scripts/ptnum_4.vfl",
+		"/C/Users/NSDesign/Documents/houdini14.0/scripts/intersect_36.vfl",
+		"/C/Users/NSDesign/Documents/houdini14.0/toolbar/pythoon_tools_set.shelf",
+		"/C/Users/NSDesign/AppData/Local/Temp/attribvop1.vex",
+		"/C/Users/NSDesign/AppData/Local/Temp/attribvop1_py.vex",
+		"/C/Users/NSDesign/Documents/houdini14.0/toolbar/python.shelf",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs1340-527.tmp.py",
+		"/C/Users/NSDesign/Documents/houdini14.0/scripts/pt_attrib_2.vfl",
+		"/C/Users/NSDesign/Documents/houdini14.0/scripts/inters_0.vfl",
+		"/C/Program Files/Side Effects Software/Houdini 15.0.277/houdini/Licensing.opt",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/Licensing.opt",
+		"/C/Windows/keys/licenses.local",
+		"/C/Program Files/Side Effects Software/Houdini 15.0.244.16/houdini/Licensing.opt",
+		"/C/Users/NSDesign/Documents/houdini14.0/otls/OPcustom.hdanc",
+		"/C/Users/NSDesign/Documents/houdini14.0/otls/nsd_spiral-au.com.nsd__spiral__1.0.0.hdanc",
+		"/C/Users/NSDesign/Documents/houdini14.21/toolbar/default.shelf",
+		"/C/Users/NSDesign/Documents/houdini14.0/toolbar/default.shelf",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/config/3DSceneColors.dark",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/config/3DSceneColors.bw",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/config/3DSceneColors",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/ExampleMenu.xml",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/PARMmenu.xml",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/menu.xsd",
+		"/C/Users/NSDesign/Documents/SublimeProjects/Default (Windows).sublime-keymap",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/SublimePySide/Default (Windows).sublime-keymap",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/SublimePySide.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/PySide/SublimePySide.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/PySide/Default (Windows).sublime-keymap",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/PySide/README.markdown",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Public/Documents/Unity Projects/Houdini_Engine_Project_13.0.547/Assets/Houdini/Scripts/HoudiniSetPath.cs",
+		"/C/Users/NSDesign/$HIP/my_shelf.shelf",
+		"/C/Users/NSDesign/Documents/houdini14.0/python_panels/icon.png",
+		"/C/Users/NSDesign/Documents/houdini14.0/python_panels/default.pypanel",
+		"/C/Users/NSDesign/Documents/houdini14.0.bak/python_panels/default.pypanel",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/scripts/123.py",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7024-506.tmp.py",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-670.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7276-390.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7276-389.tmp.vfl",
+		"/C/_DATA/Houdini/PROJECTS/DLA/src/DLA.vfl",
+		"/C/Program Files/Side Effects Software/Houdini 14.0.361/houdini/config/Applications/SI_PythonShell.ui",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7024-491.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-692.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-691.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-688.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-685.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-672.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs10408-671.tmp.str",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7124-355.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7124-354.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7124-353.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7124-352.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs7124-351.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs9140-348.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs2816-348.tmp.vfl",
+		"/C/Users/NSDesign/AppData/Local/Temp/hfs2816-347.tmp.vfl",
+		"/C/_DATA/Houdini/PROJECTS/TESTS/SOPS/GeoCreate/colourwalkers_01.vfl",
+		"/C/_DATA/Houdini/PROJECTS/TESTS/SOPS/GeoCreate/randomwalk_01.vfl",
+		"/C/_DATA/Houdini/PROJECTS/TESTS/SOPS/GeoCreate/initialdirection.vfl",
+		"/C/_DATA/Houdini/Tutorials/CMIVFX/PySide_Custom_UI/PRJ_Houdini_PyGui/PythonLibs/PySide/scripts/__init__.py",
+		"/C/PythonLibs/characterpicker.py",
+		"/C/PythonLibs/PySide_Houdini.sublime-project",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/NSDesign/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/PythonLibs/message.py",
+		"/C/Users/NSDesign/Documents/houdini13.0/scripts/123.py",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_08/src/flux_calculation.vfl",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_08/src/thermal_erosion.vfl",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/_Instructor/Week06/src/sc_step_02_seed_growth_attribwrangle.vfl",
+		"/C/_DATA/Houdini/PROJECTS/TESTS/SOPS/PointClouds/src/pc_basic_01.vfl",
+		"/C/PythonLibs/pyside_import.py",
+		"/C/_DATA/Houdini/Tutorials/CMIVFX/PySide_Custom_UI/PRJ_Houdini_PyGui/PythonLibs/PySide/examples/tutorial/README",
+		"/C/Users/NSDesign/Documents/houdini13.0/presets/Sop/sort.idx",
+		"/C/Users/NSDesign/Documents/houdini13.0/presets/Sop/pointwrangle.idx",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/_Instructor/Week06/src/sc_step_03_food_consumption_attribwrangle.vfl",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/_Instructor/Week06/src/sc_step_01_pair_food_with_nearest_seed_point_wrangle.vfl",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/src/consume_food.vfl",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/src/seed_growth",
+		"/C/_DATA/Houdini/Tutorials/CGWORKSHOPS/VEX_in_Houdini/Week_06/src/find_nearest_seed_pt.vfl"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FilmSite_v01/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 38,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1528274946.25,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "FilmSite_v01/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1528274948.02,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 235.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 46.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "FilmSite_sublime_proj",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
